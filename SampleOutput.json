@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+      "id": "engadget",
+      "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "Apple is reportedly working on a cheaper mixed-reality headset",
+      "description": "Apple is already working on a more affordable version of its yet-to-be-announced mixed reality headset, according to Bloomberg and The Information. Based on previous reports about the long-rumored mixed reality device, it will cost around $3,000, which is dou…",
+      "url": "https://www.engadget.com/apple-reportedly-working-cheaper-mixed-reality-headset-063000889.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/69b7d220-96f2-11ed-b6e7-2857b93c6ea7",
+      "publishedAt": "2023-01-18T06:30:00Z",
+      "content": "Apple is already working on a more affordable version of its yet-to-be-announced mixed reality headset, according to Bloomberg and The Information. Based on previous reports about the long-rumored mi… [+2037 chars]"
+    },
+    {
+      "source": {
+      "id": "engadget",
+      "name": "Engadget"
+      },
+      "author": "Billy Steele",
+      "title": "Apple's larger HomePod returns with upgraded audio and more smart home tools",
+      "description": "Apple discontinued its original HomePod smart speaker in 2021, choosing instead to focus on the cheaper mini version of the device. Today, the company has resurrected the bigger unit with several notable upgrades along the way, including upgraded audio, an S7…",
+      "url": "https://www.engadget.com/apple-homepod-2023-announced-price-specs-141225333.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/435e3190-9739-11ed-97f5-97f1ec8c4e0e",
+      "publishedAt": "2023-01-18T14:12:25Z",
+      "content": "Apple discontinued its original HomePod smart speaker in 2021, choosing instead to focus on the cheaper mini version of the device. Today, the company has resurrected the bigger unit with several not… [+816 chars]"
+    },
+    {
+      "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+      },
+      "author": "Corey Gaskin",
+      "title": "Today’s best deals: Apple MacBook Air, Razer Blade, Google Pixel, and more",
+      "description": "Dealmaster also has Apple iPad Air, Garmin's smart scale, portable storage, and 4K TVs.",
+      "url": "https://arstechnica.com/staff/2023/01/todays-best-deals-apple-macbook-air-razer-blade-google-pixel-and-more/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/dm011723-760x380.jpg",
+      "publishedAt": "2023-01-18T14:01:34Z",
+      "content": "0 with 0 posters participating\r\nIt's Wednesday, which means it's time for another Dealmaster. Our latest roundup of the best tech deals from around the web includes a solid price for the latest M2-ba… [+5205 chars]"
+    },
+    {
+      "source": {
+      "id": "reuters",
+      "name": "Reuters"
+      },
+      "author": null,
+      "title": "Apple indefinitely postpones launch of AR glasses - Bloomberg News - Reuters",
+      "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-reality h…",
+      "url": "https://www.reuters.com/technology/apple-indefinitely-postpones-launch-ar-glasses-bloomberg-news-2023-01-18/",
+      "urlToImage": "https://www.reuters.com/resizer/rhSCwc4D20BT8kwwTmQWRjFuKI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q5L7PYFD3RPW7AU5GNNPEUSXEA.jpg",
+      "publishedAt": "2023-01-18T03:47:00Z",
+      "content": "Jan 17 (Reuters) - Apple Inc (AAPL.O) has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-r… [+1342 chars]"
+    },
+    {
+      "source": {
+      "id": "reuters",
+      "name": "Reuters"
+      },
+      "author": null,
+      "title": "Alibaba’s pushy shareholder mistimes his moment - Reuters",
+      "description": "Ryan Cohen has been pressing Alibaba <a href=\"https://www.reuters.com/companies/9988.HK\" target=\"_blank\">(9988.HK)</a>, for improvements since last August, per the Wall Street Journal. As the owner of an undisclosed stake, he wants the company to boast its sh…",
+      "url": "https://www.reuters.com/breakingviews/alibabas-pushy-shareholder-mistimes-his-moment-2023-01-18/",
+      "urlToImage": "https://www.reuters.com/resizer/OoKKXvzQETEZ5Q0QU0A1ZUlFTJ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AOPQUZ4WGVPXBGZAOEDOLB2BAQ.jpg",
+      "publishedAt": "2023-01-18T05:28:00Z",
+      "content": "HONG KONG, Jan 18 (Reuters Breakingviews) - Ryan Cohen has been pressing Alibaba (9988.HK), for improvements since last August, per the Wall Street Journal. As the owner of an undisclosed stake, he w… [+1714 chars]"
+    },
+    {
+      "source": {
+      "id": "reuters",
+      "name": "Reuters"
+      },
+      "author": null,
+      "title": "Taiwan Q4 GDP unexpectedly shrinks, worst performance in 13 years - Reuters",
+      "description": "Taiwan's trade-dependent economy unexpectedly contracted in the fourth quarter, putting in its worst performance in 13 years, hit by a drop in exports on slowing global tech demand and COVID-related chaos in its largest market China.",
+      "url": "https://www.reuters.com/markets/asia/taiwan-q4-gdp-unexpectedly-shrinks-worst-performance-13-years-2023-01-18/",
+      "urlToImage": "https://www.reuters.com/resizer/bLaLu4sAN9GeJ9ddzZTcASf5gK4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JKLLFHNEZFMFHARTXBZKHVY2PM.jpg",
+      "publishedAt": "2023-01-18T07:51:00Z",
+      "content": "TAIPEI, Jan 18 (Reuters) - Taiwan's trade-dependent economy unexpectedly contracted in the fourth quarter, putting in its worst performance in 13 years, hit by a drop in exports on slowing global tec… [+2098 chars]"
+    }
+  ]
+}
